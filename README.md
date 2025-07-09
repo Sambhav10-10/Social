@@ -8,7 +8,7 @@ KapotaConnect enables users to create profiles, share posts, comment, and follow
 ## 📌 Project Overview
 
 **Tech Stack:** Node.js, Express.js, EJS, SQLite/MySQL  
-**Developer:** Honoured OneByte  
+**Developer:** SAMBHAV
 **Internship Duration:** Task 2 – CodeAlpha Internship
 
 This project is designed to simulate real-world social media functionality, including:
